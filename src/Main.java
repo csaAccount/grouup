@@ -4,6 +4,7 @@ public class Main {
         System.out.println("@#");
         System.out.println("opo");
         System.out.println("crodie");
+        System.out.println("23");
     }
 
 }
